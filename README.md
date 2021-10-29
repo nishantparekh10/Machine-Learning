@@ -48,3 +48,5 @@ k) Naive Bayes code from scratch
 9 Decision Tree Classifier
 
 10 XGBoost with Optimization
+
+# 3. Project
